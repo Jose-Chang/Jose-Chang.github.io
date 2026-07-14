@@ -7,7 +7,7 @@ one-page portfolio based on my resume/CV.
 
 ## Sections
 
-- **Hero** — Introduction, role, and quick links (contact, resume, socials)
+- **Hello** — Introduction, role, and quick links (contact, resume, socials)
 - **About** — Personal profile summary
 - **Experience** — Professional timeline (Promise Technology, NCKU, Altum Lab, CAISR, Darmiyan)
 - **Education** — Ph.D., M.Sc., and B.Sc. details
